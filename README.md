@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ef/db/c7/efdbc7d1803e1da280f9957c9dd13508.gif"  />
-</div>
+<br clear="both">
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/ef/db/c7/efdbc7d1803e1da280f9957c9dd13508.gif"  />
 
 ###
 
@@ -112,8 +112,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KatEston23/KatEston23/output/pacman-contribution-graph-dark.svg">
