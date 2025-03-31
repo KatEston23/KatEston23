@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="200" src="https://i.pinimg.com/originals/ef/db/c7/efdbc7d1803e1da280f9957c9dd13508.gif"  />
 
 ###
